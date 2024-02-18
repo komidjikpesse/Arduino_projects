@@ -1,4 +1,4 @@
-README
+__README__
 Description
 Ce code Arduino contrôle un robot à l'aide de servomoteurs pour les mouvements, une caméra et un pistolet à eau. Il utilise également un capteur de distance à ultrasons pour détecter les obstacles et réagir en conséquence pour éviter les collisions tout en déployant ses fonctionnalités.
 
